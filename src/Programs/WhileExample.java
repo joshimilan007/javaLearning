@@ -8,4 +8,10 @@ public static void main(String[] args) {
     i++;  
     }  
 }  
+
+	public static void team() {
+		System.out.println("team");
+	}
+
+
 }  
